@@ -1,0 +1,33 @@
+.wp-list-table .validation_rules li{ font-size:13px; line-height:18px; padding-bottom:10px;}
+table.jvgf_form td{ border:none !important; padding:5px;}
+.gform_wrapper label.error{color:#900; font-size:11px; float:none; padding-left:5px;}
+
+/* Theme 1 */
+.gform_wrapper .theme_1 input.error, .gform_wrapper .theme_1 select.error, .gform_wrapper .theme_1 textarea.error{border-bottom:2px solid #900 !important;outline: none !important;}
+
+/* Theme 2 */
+.gform_wrapper .theme_2 input.error, .gform_wrapper .theme_2 select.error, .gform_wrapper .theme_2 textarea.error{border-right:4px solid #900 !important;outline: none !important;}
+.gform_wrapper .theme_2 input.valid, .gform_wrapper .theme_2 select.valid, .gform_wrapper .theme_2 textarea.valid{border-right:4px solid #060 !important;outline: none !important;}
+
+/* Theme 3 */
+.gform_wrapper .theme_3 input.error, .gform_wrapper .theme_3 select.error, .gform_wrapper .theme_3 textarea.error{ background:url(/wp-content/plugins/jquery-validation-for-gravity-form/includes/assets/img/error.png) no-repeat right 5px center !important;}
+.gform_wrapper .theme_3 input.valid, .gform_wrapper .theme_3 select.valid, .gform_wrapper .theme_3 textarea.valid{background:url(/wp-content/plugins/jquery-validation-for-gravity-form/includes/assets/img/valid.png) no-repeat right 5px center !important;}
+
+/* Theme 4 */
+.gform_wrapper .theme_4 input.error, .gform_wrapper .theme_4 select.error, .gform_wrapper .theme_4 textarea.error{border:1px solid #900 !important;outline: none !important;}
+
+/*DON't show error msg */
+.noErrorMsg label.error{ display:none !important; height:0px !important; width:0px !important; overflow:hidden !important;}
+
+.hideLoading{ display: none !important; }
+
+strong.invalid{ color:red;}
+strong.valid{ color:green;}
+
+#email-verification-code-error{display: none !important; height: 0px !important; width: 0px !important;}
+span.verification_code_holder{display: block !important; padding: 10px 0px 0px 0px !important; margin: 0px !important; position: relative;}
+input.verifyEmailCode{ width: 100%; }
+input.jvgf_verify_email_btn{ position: absolute; right: 0; transform: scale(0.9); }
+
+.ginput_container_checkbox label.error, .ginput_container_consent label.error{display: none !important;}
+input[type=checkbox].error + label + label{border-bottom: 2px solid #900;}
