@@ -27,7 +27,7 @@
 	</url>
 	<url>
 		<loc>/a-i-frame/</loc>
-		<lastmod>2023-11-22T14:19:31+00:00</lastmod>
+		<lastmod>2023-11-22T14:38:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/about-us/</loc>
@@ -560,9 +560,6 @@
 		<loc>/kitchen-finishes/</loc>
 		<lastmod>2021-11-15T17:40:21+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-Grey-Gloss-Kitchen-1024x695.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-Grey-Matt-Kitchen-With-Island-1-1024x766.jpg</image:loc>
 		</image:image>
 		<image:image>
@@ -573,6 +570,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-Dark-Concrete-Kitchen-1024x667.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-Grey-Gloss-Kitchen-1024x695.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -604,21 +604,18 @@
 			<image:loc>/wp-content/uploads/sites/185/2021/11/dark-kitchens-tile.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-Stone-Open-Plan-Kitchen-2-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-Open-Plan-Stone-Kitchen-With-Island-2021-3-1024x601.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/sites/185/2021/11/pastel-kitchens-tile.jpg</image:loc>
 		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-Stone-Open-Plan-Kitchen-2-1024x682.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/colours/</loc>
 		<lastmod>2021-11-15T17:28:52+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-White-Shaker-Kitchen-With-Island-1024x832.jpg</image:loc>
-		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/sites/185/2021/10/Structura403_S_1269-1024x724.jpg</image:loc>
 		</image:image>
@@ -631,26 +628,26 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/sites/185/2023/10/Nobilia-Blush-Matt-Kitchen-1024x810.jpg</image:loc>
 		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-White-Shaker-Kitchen-With-Island-1024x832.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/door-styles/</loc>
 		<lastmod>2021-11-11T11:00:06+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-Grey-Country-Style-Shaker-Kitchen-1-1024x676.jpg</image:loc>
-		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/sites/185/2021/10/Structura403_M_1171-1024x677.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-Stone-Open-Plan-Kitchen-2-1024x682.jpg</image:loc>
 		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-Grey-Country-Style-Shaker-Kitchen-1-1024x676.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/kitchen-layouts/</loc>
 		<lastmod>2021-11-11T09:24:32+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-Modern-Wood-Kitchen-With-Island-2021-1024x684.jpg</image:loc>
-		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/sites/185/2021/10/York901_M_15690_19-1-1024x581.jpg</image:loc>
 		</image:image>
@@ -662,6 +659,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-Metallic-Handleless-Kitchen-1024x815.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/sites/185/2021/10/Nobilia-Modern-Wood-Kitchen-With-Island-2021-1024x684.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
