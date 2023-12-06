@@ -10,8 +10,8 @@ table.jvgf_form td{ border:none !important; padding:5px;}
 .gform_wrapper .theme_2 input.valid, .gform_wrapper .theme_2 select.valid, .gform_wrapper .theme_2 textarea.valid{border-right:4px solid #060 !important;outline: none !important;}
 
 /* Theme 3 */
-.gform_wrapper .theme_3 input.error, .gform_wrapper .theme_3 select.error, .gform_wrapper .theme_3 textarea.error{ background:url(/wp-content/plugins/jquery-validation-for-gravity-form/includes/assets/img/error.png) no-repeat right 5px center !important;}
-.gform_wrapper .theme_3 input.valid, .gform_wrapper .theme_3 select.valid, .gform_wrapper .theme_3 textarea.valid{background:url(/wp-content/plugins/jquery-validation-for-gravity-form/includes/assets/img/valid.png) no-repeat right 5px center !important;}
+.gform_wrapper .theme_3 input.error, .gform_wrapper .theme_3 select.error, .gform_wrapper .theme_3 textarea.error{ background:url(https://https://lw-static-xq8p5.kinsta.page/wp-content/plugins/jquery-validation-for-gravity-form/includes/assets/img/error.png) no-repeat right 5px center !important;}
+.gform_wrapper .theme_3 input.valid, .gform_wrapper .theme_3 select.valid, .gform_wrapper .theme_3 textarea.valid{background:url(https://https://lw-static-xq8p5.kinsta.page/wp-content/plugins/jquery-validation-for-gravity-form/includes/assets/img/valid.png) no-repeat right 5px center !important;}
 
 /* Theme 4 */
 .gform_wrapper .theme_4 input.error, .gform_wrapper .theme_4 select.error, .gform_wrapper .theme_4 textarea.error{border:1px solid #900 !important;outline: none !important;}
